@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# Piedra-Papel-Tijera
 
 ```javascript
  /**
