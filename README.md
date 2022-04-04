@@ -18,19 +18,19 @@
   }
 
   if (choice1 === "piedra" && choice2 === "tijera") {
-      result = "Gano usuario 1";
+      result = "Ganó  usuario 1";
   }
 
   if (choice1 === "tijera" && choice2 === "papel") {
-      result = "Gano usuario 1";
+      result = "Ganó usuario 1";
   }
 
   if (choice1 === "papel" && choice2 === "piedra") {
-     result = "Gano usuario 1";
+     result = "Ganó usuario 1";
   }
 
   if (choice1 === "tijera" && choice2 === "piedra") {
-     result = "Gano usuario 2";
+     result = "Ganó usuario 2";
   }
 
   if (choice1 === "papel" && choice2 === "tijera") {
@@ -38,7 +38,7 @@
   }
 
   if (choice1 === "piedra" && choice2 === "papel") {
-      result = "Gano usuario 2";
+      result = "Ganó usuario 2";
   }
 
   return result;
